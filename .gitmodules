@@ -1,0 +1,3 @@
+[submodule "OneMoreTime"]
+	path = OneMoreTime
+	url = git@github.com:AndreyVod/OneMoreTime.git
